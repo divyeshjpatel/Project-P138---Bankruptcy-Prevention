@@ -1,1 +1,1 @@
-sklearn.svm.SVC
+scikit-learn
